@@ -1,0 +1,416 @@
+[
+  {
+    "name": "John",
+    "surname": "Doe",
+    "phone": "123-456-7890",
+    "subscribed": true,
+    "favouriteBooks": [
+      {
+        "name": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "publishingYear": 1954,
+        "isbn": "0395026468",
+        "publisher": "Allen & Unwin"
+      },
+      {
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publishingYear": 1960,
+        "isbn": "0446310759",
+        "publisher": "HarperPerennial"
+      },
+      {
+        "name": "The Fault in Our Stars",
+        "author": "John Green",
+        "publishingYear": 2012,
+        "isbn": "0316038746",
+        "publisher": "Dutton"
+      },
+      {
+        "name": "The Book Thief",
+        "author": "Markus Zusak",
+        "publishingYear": 2005,
+        "isbn": "0375831004",
+        "publisher": "Knopf"
+      },
+      {
+        "name": "The Shack",
+        "author": "William P. Young",
+        "publishingYear": 2007,
+        "isbn": "0316067860",
+        "publisher": "Windblown Media"
+      },
+      {
+        "name": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "publishingYear": 2003,
+        "isbn": "0385506982",
+        "publisher": "Riverhead Books"
+      },
+      {
+        "name": "The Nightingale",
+        "author": "Kristin Hannah",
+        "publishingYear": 2015,
+        "isbn": "0385387035",
+        "publisher": "St. Martin's Press"
+      }
+    ]
+  },
+  {
+    "name": "Jane",
+    "surname": "Smith",
+    "phone": "987-654-3210",
+    "subscribed": false,
+    "favouriteBooks": [
+      {
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publishingYear": 1813,
+        "isbn": "0525472125",
+        "publisher": "Penguin Classics"
+      },
+      {
+        "name": "1984",
+        "author": "George Orwell",
+        "publishingYear": 1949,
+        "isbn": "0451534852",
+        "publisher": "Signet Classics"
+      }
+    ]
+  },
+  {
+    "name": "Michael",
+    "surname": "Johnson",
+    "phone": "555-123-4567",
+    "subscribed": true,
+    "favouriteBooks": [
+      {
+        "name": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "publishingYear": 1979,
+        "isbn": "034539082X",
+        "publisher": "Del Rey"
+      },
+      {
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publishingYear": 1925,
+        "isbn": "0743273567",
+        "publisher": "Scribner"
+      }
+    ]
+  },
+  {
+    "name": "Emily",
+    "surname": "Brown",
+    "phone": "555-987-6543",
+    "subscribed": true,
+    "favouriteBooks": [
+      {
+        "name": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "publishingYear": 1997,
+        "isbn": "0747532735",
+        "publisher": "Bloomsbury"
+      },
+      {
+        "name": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "publishingYear": 1954,
+        "isbn": "0395026468",
+        "publisher": "Allen & Unwin"
+      }
+    ]
+  },
+  {
+    "name": "David",
+    "surname": "Wilson",
+    "phone": "555-111-2222",
+    "subscribed": false,
+    "favouriteBooks": [
+      {
+        "name": "1984",
+        "author": "George Orwell",
+        "publishingYear": 1949,
+        "isbn": "0451534852",
+        "publisher": "Signet Classics"
+      },
+      {
+        "name": "Brave New World",
+        "author": "Aldous Huxley",
+        "publishingYear": 1932,
+        "isbn": "0060860495",
+        "publisher": "Harper Perennial"
+      }
+    ]
+  },
+  {
+    "name": "Olivia",
+    "surname": "Miller",
+    "phone": "555-333-4444",
+    "subscribed": true,
+    "favouriteBooks": [
+      {
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publishingYear": 1813,
+        "isbn": "0525472125",
+        "publisher": "Penguin Classics"
+      },
+      {
+        "name": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "publishingYear": 2008,
+        "isbn": "0439023483",
+        "publisher": "Scholastic"
+      }
+    ]
+  },
+  {
+    "name": "William",
+    "surname": "Davis",
+    "phone": "555-555-5555",
+    "subscribed": true,
+    "favouriteBooks": [
+      {
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "publishingYear": 1951,
+        "isbn": "0316769487",
+        "publisher": "Little, Brown"
+      },
+      {
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publishingYear": 1925,
+        "isbn": "0743273567",
+        "publisher": "Scribner"
+      }
+    ]
+  },
+  {
+    "name": "Sophia",
+    "surname": "Garcia",
+    "phone": "555-666-7777",
+    "subscribed": false,
+    "favouriteBooks": [
+      {
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publishingYear": 1960,
+        "isbn": "0446310759",
+        "publisher": "HarperPerennial"
+      },
+      {
+        "name": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "publishingYear": 2008,
+        "isbn": "0439023483",
+        "publisher": "Scholastic"
+      }
+    ]
+  },
+  {
+    "name": "James",
+    "surname": "Martinez",
+    "phone": "555-888-9999",
+    "subscribed": true,
+    "favouriteBooks": [
+      {
+        "name": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "publishingYear": 1979,
+        "isbn": "034539082X",
+        "publisher": "Del Rey"
+      },
+      {
+        "name": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "publishingYear": 1954,
+        "isbn": "0395026468",
+        "publisher": "Allen & Unwin"
+      }
+    ]
+  },
+  {
+    "name": "Isabella",
+    "surname": "Anderson",
+    "phone": "555-000-1111",
+    "subscribed": false,
+    "favouriteBooks": [
+      {
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publishingYear": 1813,
+        "isbn": "0525472125",
+        "publisher": "Penguin Classics"
+      },
+      {
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publishingYear": 1925,
+        "isbn": "0743273567",
+        "publisher": "Scribner"
+      },
+      {
+        "name": "The Alchemist",
+        "author": "Paulo Coelho",
+        "publishingYear": 1988,
+        "isbn": "0060920508",
+        "publisher": "HarperOne"
+      },
+      {
+        "name": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "publishingYear": 2003,
+        "isbn": "0385504209",
+        "publisher": "Doubleday"
+      }
+    ]
+  },
+  {
+    "name": "Ethan",
+    "surname": "Taylor",
+    "phone": "555-222-3333",
+    "subscribed": true,
+    "favouriteBooks": [
+      {
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "publishingYear": 1951,
+        "isbn": "0316769487",
+        "publisher": "Little, Brown"
+      },
+      {
+        "name": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "publishingYear": 2008,
+        "isbn": "0439023483",
+        "publisher": "Scholastic"
+      },
+      {
+        "name": "Gone Girl",
+        "author": "Gillian Flynn",
+        "publishingYear": 2012,
+        "isbn": "0316205775",
+        "publisher": "Crown"
+      }
+    ]
+  },
+  {
+    "name": "Ava",
+    "surname": "Thomas",
+    "phone": "555-444-5555",
+    "subscribed": true,
+    "favouriteBooks": [
+      {
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publishingYear": 1960,
+        "isbn": "0446310759",
+        "publisher": "HarperPerennial"
+      },
+      {
+        "name": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "publishingYear": 2008,
+        "isbn": "0439023483",
+        "publisher": "Scholastic"
+      }
+    ]
+  },
+  {
+    "name": "Jack",
+    "surname": "Hill",
+    "phone": "555-666-7777",
+    "subscribed": true,
+    "favouriteBooks": [
+      {
+        "name": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "publishingYear": 1979,
+        "isbn": "034539082X",
+        "publisher": "Del Rey"
+      },
+      {
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publishingYear": 1925,
+        "isbn": "0743273567",
+        "publisher": "Scribner"
+      }
+    ]
+  },
+  {
+    "name": "Lily",
+    "surname": "Jones",
+    "phone": "555-777-8888",
+    "subscribed": true,
+    "favouriteBooks": [
+      {
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publishingYear": 1813,
+        "isbn": "0525472125",
+        "publisher": "Penguin Classics"
+      },
+      {
+        "name": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "publishingYear": 2008,
+        "isbn": "0439023483",
+        "publisher": "Scholastic"
+      },
+      {
+        "name": "Gone Girl",
+        "author": "Gillian Flynn",
+        "publishingYear": 2012,
+        "isbn": "0316205775",
+        "publisher": "Crown"
+      },
+      {
+        "name": "The Girl on the Train",
+        "author": "Paula Hawkins",
+        "publishingYear": 2015,
+        "isbn": "0007555445",
+        "publisher": "Riverhead Books"
+      },
+      {
+        "name": "The Martian",
+        "author": "Andy Weir",
+        "publishingYear": 2011,
+        "isbn": "0553418438",
+        "publisher": "Crown"
+      }
+    ]
+  },
+  {
+    "name": "Oliver",
+    "surname": "Baker",
+    "phone": "555-888-9999",
+    "subscribed": true,
+    "favouriteBooks": [
+      {
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "publishingYear": 1951,
+        "isbn": "0316769487",
+        "publisher": "Little, Brown"
+      },
+      {
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publishingYear": 1925,
+        "isbn": "0743273567",
+        "publisher": "Scribner"
+      },
+      {
+        "name": "The Nightingale",
+        "author": "Kristin Hannah",
+        "publishingYear": 2015,
+        "isbn": "0385387035",
+        "publisher": "St. Martin's Press"
+      }
+    ]
+  }
+]
